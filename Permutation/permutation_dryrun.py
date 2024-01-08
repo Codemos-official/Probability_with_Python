@@ -1,7 +1,7 @@
 class Permutations:
     def __init__(self):
         self.permutations_list = []
-
+ 
     def generate_permutations(self, input_list, r=None):
         if r is None:
             r = len(input_list)
