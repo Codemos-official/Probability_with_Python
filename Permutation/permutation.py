@@ -7,7 +7,6 @@ the usage of this class by generating permutations for a specific list and lengt
 '''
 
 
-
 class Permutations:
     def __init__(self):
         '''initialize Permutations class with an empty list to store permutations'''
